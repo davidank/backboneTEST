@@ -1,0 +1,21 @@
+{
+  "name": "bower.json",
+  "homepage": "https://github.com/davidank/backboneTEST",
+  "authors": [
+    "davidank <dandahmann@gmail.com>"
+  ],
+  "description": "testing backbone",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
